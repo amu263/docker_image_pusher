@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #网络瑞士军刀cyberchef
 ghcr.io/gchq/cyberchef:latest
+#autobangumi自动追番
+ghcr.io/estrellaxd/auto_bangumi:latest
