@@ -8,3 +8,5 @@ xhofe/alist:latest
 ghcr.io/gchq/cyberchef:latest
 #autobangumi自动追番
 ghcr.io/estrellaxd/auto_bangumi:latest
+#emby
+emby/embyserver:latest
