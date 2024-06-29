@@ -10,3 +10,5 @@ ghcr.io/gchq/cyberchef:latest
 ghcr.io/estrellaxd/auto_bangumi:latest
 #emby
 emby/embyserver:latest
+#plex
+plexinc/pms-docker
