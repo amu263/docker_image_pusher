@@ -12,3 +12,5 @@ ghcr.io/estrellaxd/auto_bangumi:latest
 emby/embyserver:latest
 #plex
 plexinc/pms-docker
+#komga
+gotson/komga:latest
