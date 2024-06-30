@@ -14,3 +14,5 @@ emby/embyserver:latest
 plexinc/pms-docker
 #komga
 gotson/komga:latest
+#tachidesk漫画下载
+ghcr.io/suwayomi/tachidesk:latest
