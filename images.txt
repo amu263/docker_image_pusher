@@ -16,3 +16,5 @@ plexinc/pms-docker
 gotson/komga:latest
 #tachidesk漫画下载
 ghcr.io/suwayomi/tachidesk:latest
+#navidrome串流websubplayer
+peguerosdc/subplayer:latest
