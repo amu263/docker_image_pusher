@@ -18,3 +18,5 @@ gotson/komga:latest
 ghcr.io/suwayomi/tachidesk:latest
 #navidrome串流websubplayer
 peguerosdc/subplayer:latest
+#阅读3
+hectorqin/reader:latest
