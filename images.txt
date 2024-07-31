@@ -22,3 +22,5 @@ peguerosdc/subplayer:latest
 hectorqin/reader:latest
 #密码
 vaultwarden/server:latest
+#npm
+jc21/nginx-proxy-manager:latest
