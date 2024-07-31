@@ -20,3 +20,5 @@ ghcr.io/suwayomi/tachidesk:latest
 peguerosdc/subplayer:latest
 #阅读3
 hectorqin/reader:latest
+#密码
+vaultwarden/server:latest
