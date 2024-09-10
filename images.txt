@@ -26,3 +26,5 @@ vaultwarden/server:latest
 jc21/nginx-proxy-manager:latest
 #博客Halo
 halohub/halo-pro:2.18.0
+#本子管理
+difegue/lanraragi
