@@ -28,3 +28,7 @@ jc21/nginx-proxy-manager:latest
 halohub/halo-pro:2.18.0
 #本子管理
 difegue/lanraragi:latest
+#兰空图床
+dko0/lsky-pro:latest
+#MQ数据库
+mysql:latest
